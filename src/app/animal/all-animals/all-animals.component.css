@@ -1,0 +1,19 @@
+* {
+  list-style: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+ul li {
+  text-align: center;
+  width: 20%;
+  border: 1px solid #000;
+  padding: 10px;
+  font-size: 20px;
+}
